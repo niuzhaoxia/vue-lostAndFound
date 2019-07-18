@@ -1,0 +1,1 @@
+{"_id":"5c8b55495a589219503414c1","sender":"钱二","userId":1,"content":"thanks you","goods_id":1,"letter_id":1,"post_time":"2001-04-02T16:00:00.000Z"}{"_id":"5ca4aacd0bb18706706bfe9b","sender":"李四","userId":1,"content":"感谢你的拾金不昧","goods_id":2,"letter_id":2,"post_time":"2001-01-02T16:00:00.000Z"}
