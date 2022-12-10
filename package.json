@@ -16,7 +16,7 @@
     "cropper": "^4.0.0",
     "cropperjs": "latest",
     "element-ui": "^2.7.2",
-    "express": "^4.16.4",
+    "express": "^4.17.3",
     "jquery": "^3.3.1",
     "moment": "^2.24.0",
     "mongodb": "^3.1.13",
